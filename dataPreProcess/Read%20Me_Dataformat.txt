@@ -1,0 +1,15 @@
+Read Me
+
+Objective:
+Read all the data file and arrange them into proper format for our algorithms.
+
+Process:
+1. Create the address list
+2. Read the variable names and decide which variables we may use.
+3. Read the data.
+4. Format the data, like the Date, the numbers and the characters.
+5. Output the data into cvs file.
+
+Good luck and have fun.
+
+
